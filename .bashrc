@@ -13,7 +13,7 @@ alias art='python3 ascii.py | lolcat'
 ###########
 ###NEW
 ############
-
+alias appai='python3 /home/pi/bin/appai/appai.py'
 alias ccc='/home/pi/bin/clippy/clippy.sh'
 alias magicvm='sudo python3 /home/pi/bin/magicvm/magicvm.py'
 alias chm='chmod +x '
